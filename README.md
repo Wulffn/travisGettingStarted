@@ -1,4 +1,4 @@
-https://travis-ci.org/Wulffn/travisGettingStarted.svg?branch=master
+[![Build Status](https://travis-ci.org/Wulffn/travisGettingStarted.svg?branch=master)](https://travis-ci.org/Wulffn/travisGettingStarted)
 
 Ultra simple Java Project meant for a Travis introduction
 
